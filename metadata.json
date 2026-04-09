@@ -1,0 +1,5 @@
+{
+  "name": "HelloTalk Chat Demo",
+  "description": "A high-fidelity interactive mobile group chat demo with anti-spam and anti-repeat logic.",
+  "requestFramePermissions": []
+}
